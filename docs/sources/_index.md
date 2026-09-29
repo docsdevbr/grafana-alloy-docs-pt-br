@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: Apache-2.0
 # Documentation licensed under the GNU Affero General Public License Version 3.
 # The original work was translated from English into Brazilian Portuguese.
-# https://github.com/docsdevbr/grafana-loki-docs-pt-br/blob/-/LICENSES/Apache-2.0.txt
+# https://github.com/docsdevbr/grafana-alloy-docs-pt-br/blob/-/LICENSES/Apache-2.0.txt
 
 source_url: https://github.com/grafana/alloy/blob/v1.20.1/docs/sources/_index.md
 source_revision: 95e12cf8961fabc9db6858f7e79bde5c814a07a0
