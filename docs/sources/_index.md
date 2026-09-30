@@ -114,7 +114,7 @@ como Loki e Pyroscope.
 Isso permite trabalhar com logs, métricas, rastros e até mesmo oferecer suporte
 robusto para perfis.
 
-**Observabilidade de nível empresarial**
+**Observabilidade de nível corporativo**
 
 O {{< param "FULL_PRODUCT_NAME" >}} aumenta a confiabilidade e oferece recursos
 avançados para necessidades corporativas, como clusters de frotas e
