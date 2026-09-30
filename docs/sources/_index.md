@@ -108,11 +108,11 @@ estratégias de observabilidade.
 
 **Todos os sinais: aplicações, infraestrutura ou ambos**
 
-O {{< param "FULL_PRODUCT_NAME" >}} possui pipelines nativas para os principais
+O {{< param "FULL_PRODUCT_NAME" >}} possui pipelines nativos para os principais
 sinais de telemetria, como Prometheus e OpenTelemetry, e para bancos de dados
 como Loki e Pyroscope.
 Isso permite trabalhar com logs, métricas, rastros e até mesmo oferecer suporte
-robusto para profiling.
+robusto para perfis.
 
 **Observabilidade de nível empresarial**
 
